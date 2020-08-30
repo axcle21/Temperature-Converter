@@ -3,8 +3,8 @@ Language use is C programming
 
 The program is compose of the topics like:
 
-• Mathematical operators
-• Arrays
-• Loopings
-• Jumping statement
-• Gotoxy
+  • Mathematical operators<br />
+  • Arrays<br />
+• Loopings<br />
+• Jumping statement<br />
+• Gotoxy<br />
